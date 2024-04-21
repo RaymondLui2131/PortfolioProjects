@@ -1,13 +1,13 @@
 # PortfolioProjects
-1. Covid Analyst Project
-Use covid deaths and vaccination data to perform statistical analysis.
+1. COVID Analyst Project
+Use COVID deaths and vaccination data to perform statistical analysis.
 Files Used
-CovidDeaths.csv
-CovidVaccinations.csv
+CovidDeaths.csv,
+CovidVaccinations.csv,
 SQLPortfolioProject.sql
 
-2. Layoffs Data Cleaning Proejct
-Cleaned up a layoff csv file
+2. Layoffs Data Cleaning Project
+Cleaned up a layoff CSV file
 Files Used
-SQLDataCleaning.sql
+SQLDataCleaning.sql,
 layoffs.csv
