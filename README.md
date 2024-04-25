@@ -11,3 +11,8 @@ Cleaned up a layoff CSV file.\
 Files Used\
 SQLDataCleaning.sql\
 layoffs.csv
+
+3. __Excel Bike DashBoard__\
+Used Bike Purchases Data Summary to produce a dashboard in Excel \
+Files Used\
+Bike_Sales_DashBoard.xlsx
