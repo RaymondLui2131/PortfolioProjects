@@ -15,11 +15,6 @@ ORDER BY date
 SELECT Location, date, people_vaccinated, people_fully_vaccinated
 FROM PortfolioProject..CovidVaccinations
 
-ALTER TABLE PortfolioProject..CovidDeaths ALTER COLUMN new_cases FLOAT;
-ALTER TABLE PortfolioProject..CovidDeaths ALTER COLUMN new_deaths FLOAT;
-ALTER TABLE PortfolioProject..CovidDeaths ALTER COLUMN population FLOAT;
-ALTER TABLE PortfolioProject..CovidDeaths ALTER COLUMN total_cases FLOAT;
-
 -- Looking at Total Cases vs Total Deaths
 -- Shows likelihood of dying if you contract Covid in your country
 SELECT location, date, total_cases, new_cases, total_deaths, (total_deaths / NULLIF(total_cases,0))*100 AS DeathPercentage
