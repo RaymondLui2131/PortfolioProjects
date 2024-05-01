@@ -18,11 +18,11 @@ Files Used\
 Bike_Sales_DashBoard.xlsx
 
 4. __Seattle Airbnb Analyst (Tableau)__\
-Used Airbnb data to analyze prices
+Used Airbnb data to analyze prices\
 Files Used\
 Airbnb Analyst.twbx
 
-5. __Data Careers DashBoard (Power BI)
-Used a career survey to analyze people's feeling towards their jobs.
+5. __Data Careers DashBoard (Power BI)__\
+Used a career survey to analyze people's feeling towards their jobs.\
 Files Used\
 Finalproject.pbix
